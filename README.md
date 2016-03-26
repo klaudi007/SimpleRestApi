@@ -1,7 +1,8 @@
-Simple Rest API
+## Simple Rest API code Example
 
 
-Territory API
+
+## Territory API
 
 Territory SAVE
 Request: [Territory]
@@ -65,7 +66,9 @@ Get Territories
 
 
 
-Plan API
+## Plan API
+
+
 Save New Plan
 - Request : [Plan]
 
